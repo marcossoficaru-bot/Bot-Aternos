@@ -39,7 +39,7 @@ function initBot() {
         const pitch = (Math.random() - 0.5) * Math.PI / 2;
         bot.look(yaw, pitch);
       }
-    }, 40000);
+    }, 90000);
   });
 
   bot.on('end', () => {
