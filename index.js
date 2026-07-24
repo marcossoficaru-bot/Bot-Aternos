@@ -13,8 +13,8 @@ app.listen(PORT, () => {
 
 // 2. CONFIGURACIÓN DEL BOT (¡CAMBIA ESTO CON TUS DATOS!)
 const botArgs = {
-  host: 'TU_IP_DE_ATERNOS.aternos.me', // Tu IP de Aternos (sin el puerto)
-  port: 12345,                         // Tu puerto de 5 dígitos (solo números)
+  host: 'survivaltranqui2026.aternos.me', // Tu IP de Aternos (sin el puerto)
+  port: 30804,                         // Tu puerto de 5 dígitos (solo números)
   username: 'BotAternos247',           // El nombre que quieras para el bot
   version: false                       // Auto-detectar versión
 };
