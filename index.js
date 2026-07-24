@@ -16,7 +16,7 @@ const botArgs = {
   host: 'survivaltranqui2026.aternos.me', // Tu IP de Aternos (sin el puerto)
   port: 30804,                         // Tu puerto de 5 dígitos (solo números)
   username: 'BotAternos247',           // El nombre que quieras para el bot
-  version: false                       // Auto-detectar versión
+  version: 26.2                       // Auto-detectar versión
 };
 
 let bot;
