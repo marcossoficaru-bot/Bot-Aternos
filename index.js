@@ -17,6 +17,7 @@ const botArgs = {
   port: 30804,                         // Tu puerto de 5 dígitos (solo números)
   username: 'BotAternos247',           // El nombre que quieras para el bot
   version: 26.2                       // Auto-detectar versión
+  checkTimeoutInterval: 60 * 10000 // <--- COPIA ESTA LÍNEA EXACTAMENTE IGUAL
 };
 
 let bot;
